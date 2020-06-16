@@ -28,6 +28,7 @@ image::images/rhdevelopers.png[]
 
 Latest HTML:
 http://bit.ly/msa-tutorial
+reference: https://youtu.be/SPATMHP-xw8
 
 This is the frontend screenshot that you will see after the deployment of all microservices:
 
